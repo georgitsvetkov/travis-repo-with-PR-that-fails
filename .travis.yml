@@ -1,4 +1,4 @@
 language: generic
 script:
 # - exit 1
-- test_bye.sh
+- bash test_bye.sh
