@@ -1,7 +1,7 @@
 # travis-repo-with-PR-that-fails
 Create a PR that fails (link to open PR that shows fail)
 
-This is a repo for travis test that fails at PR. In this repo I'm going to build a simple scrips and use travis.yml to test a scenario in which the script is failing and generating an error (output 1).
+This is a repo for travis test that fails at PR. In this repo I'm going to build a simple scrips and use travis.yml to test a scenario in which the script is failing and generating an error (exit 1).
 
 - Create a script bye.sh, which prints `hello`
 
