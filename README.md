@@ -1,5 +1,5 @@
 # travis-repo-with-PR-that-fails
-Create a PR that fails (link to open PR that shows fail)
+Create a PR that fails ([link to open PR that shows fail](https://github.com/georgitsvetkov/travis-repo-with-PR-that-fails/pull/2#issue-1166099955))
 
 This is a repo for travis test that fails at PR. In this repo I'm going to build a simple scrips and use travis.yml to test a scenario in which the script is failing and generating an error (exit 1).
 
