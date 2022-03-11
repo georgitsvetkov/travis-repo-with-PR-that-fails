@@ -1,3 +1,4 @@
 language: generic
 script:
-- exit 1
+# - exit 1
+- bash test_bye.sh
